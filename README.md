@@ -11,7 +11,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
     * OWASP Hong Kong TechDay
 
 ## 2020
-* [How I Hacked Facebook Again!](data/2020-How-I-Hacked-Facebook-Again!.pdf)
+* [How I Hacked Facebook Again!](data/2020-How-I-Hacked-Facebook-Again.pdf)
     * HITCON 
 
 ## 2019
