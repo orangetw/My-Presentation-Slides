@@ -38,6 +38,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
 * [從一個脆弱點到串起整個攻擊鏈](data/2018-xz-whitehat-summit.pdf)
     * 先知白帽大會
     * HITCON
+* [從一個脆弱點到串起整個攻擊鏈 (JavaScript ver)](data/2018-tdoh-conf-javascript-ver.pdf)
     * TDOH Conf
 
 ## 2017
