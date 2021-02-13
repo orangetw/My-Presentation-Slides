@@ -7,7 +7,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
 
 ## 2021
 * [A Journey Combining Web Hacking and Binary Exploitation in Real World!](data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf)
-    * RealWorld CTF(Live Forum)
+    * RealWorld CTF (Live Forum)
     * OWASP Hong Kong TechDay
 
 ## 2020
@@ -44,7 +44,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
 * [A New Era of SSRF - Exploiting URL Parser in Trending Programming Languages!](data/2019-A-New-Era-Of-SSRF-Exploiting-URL-Parser-In-Trending-Programming-Languages.pdf)
     * Black Hat USA
     * DEFCON
-    * Black Hat Asia(2018)
+    * Black Hat Asia (2018)
     * HITCON
     * CODE BLUE
     * HITB GSEC
