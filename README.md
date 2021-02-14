@@ -13,6 +13,8 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
 ## 2020
 * [How I Hacked Facebook Again!](data/2020-How-I-Hacked-Facebook-Again.pdf)
     * HITCON 
+    * [(blog) How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html)
+
 
 ## 2019
 * [Infiltrating Corporate Intranet Like NSA - Pre-auth RCE on Leading SSL VPNs](data/2019-blackhat-Infiltrating-Corporate-Intranet-Like-NSA.pdf)
@@ -22,12 +24,18 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
     * CODE BLUE
     * HITB GSEC
     * RomHack
+    * [(blog) Attacking SSL VPN - Part 3: The Golden Pulse Secure SSL VPN RCE Chain, with Twitter as Case Study!](https://blog.orange.tw/2019/09/attacking-ssl-vpn-part-3-golden-pulse-secure-rce-chain.html)
+    * [(blog) Attacking SSL VPN - Part 2: Breaking the Fortigate SSL VPN](https://blog.orange.tw/2019/08/attacking-ssl-vpn-part-2-breaking-the-fortigate-ssl-vpn.html)
+    * [(blog) Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](https://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
 * [你用它上網，我用它進你內網 - 知名電信商設備遠端代碼執行漏洞](data/2019-devcore-conference-orange-tsai.pdf)
     * DEVCORE Conference
+    * [(blog) 你用它上網，我用它進你內網! 中華電信數據機遠端代碼執行漏洞](https://blog.orange.tw/2019/11/HiNet-GPON-Modem-RCE.html)
 * [Hacking Jenkins!](data/2019-Hacking-Jenkins-Pass-the-Salt.pdf)
     * Pass the Salt
     * Becks.io
     * HITB GSEC
+    * [(blog) Hacking Jenkins Part 2 - Abusing Meta Programming for Unauthenticated RCE!](https://blog.orange.tw/2019/02/abusing-meta-programming-for-unauthenticated-rce.html)
+    * [(blog) Hacking Jenkins Part 1 - Play with Dynamic Routing](https://blog.orange.tw/2019/01/hacking-jenkins-part-1-play-with-dynamic-routing.html)
 
 ## 2018
 * [Breaking Parser Logic - Take Your Path Normalization off and Pop 0days Out!](data/2018-Breaking-Parser-Logic-Take-Your-Path-Normalization-Off-And-Pop-0days-Out.pdf)
@@ -35,6 +43,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
     * DEFCON
     * CODE BLUE
     * Hack.lu
+    * [(blog) How I Chained 4 Bugs(Features?) into RCE on Amazon Collaboration System](https://blog.orange.tw/2018/08/how-i-chained-4-bugs-features-into-rce-on-amazon.html)
 * [從一個脆弱點到串起整個攻擊鏈](data/2018-xz-whitehat-summit.pdf)
     * 先知白帽大會
     * HITCON
@@ -49,10 +58,12 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
     * HITCON
     * CODE BLUE
     * HITB GSEC
+    * [(blog) How I Chained 4 vulnerabilities on GitHub Enterprise, From SSRF Execution Chain to RCE!](https://blog.orange.tw/2017/07/how-i-chained-4-vulnerabilities-on.html)
 
 ## 2016
 * [Bug Bounty 獎金獵人甘苦談 那些年我回報過的漏洞](data/2016-Bug-Bounty-I-reported-orange-tsai.pdf)
     * HITCON
+    * [(blog) HITCON 2016 投影片 - Bug Bounty 獎金獵人甘苦談 那些年我回報過的漏洞](https://blog.orange.tw/2016/07/hitcon-2016-slides-bug-bounty-hunter.html)
 
 ## 2015
 * [Web Hacking 中的奇技淫巧 - Epic Tricks in Web Hacking ](data/2015-tricks-in-web-hacking.pdf)
