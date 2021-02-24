@@ -9,6 +9,7 @@ Collections of Orange Tsai's public presentation slides. You can find me from:
 * [A Journey Combining Web Hacking and Binary Exploitation in Real World!](data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf)
     * RealWorld CTF (Live Forum)
     * OWASP Hong Kong TechDay
+    * [(blog) A Journey Combining Web Hacking and Binary Exploitation in Real World!](https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html)
 
 ## 2020
 * [How I Hacked Facebook Again!](data/2020-How-I-Hacked-Facebook-Again.pdf)
