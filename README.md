@@ -10,6 +10,8 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
     * RealWorld CTF (Live Forum)
     * OWASP Hong Kong TechDay
     * [(blog) A Journey Combining Web Hacking and Binary Exploitation in Real World!](https://blog.orange.tw/2021/02/a-journey-combining-web-and-binary-exploitation.html)
+* [從初出茅廬到破解大師: 我的 14 年駭客生涯回顧](data/2021-IThome-from-beginner-to-master-of-pwn.pdf)
+    * iThome CYBERSEC 2021 台灣資安大會
 
 ## 2020
 * [How I Hacked Facebook Again!](data/2020-How-I-Hacked-Facebook-Again.pdf)
