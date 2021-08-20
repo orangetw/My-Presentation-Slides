@@ -6,6 +6,12 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
 
 
 ## 2021
+* [ProxyLogon is Just the Tip of the Iceberg: A New Attack Surface on Microsoft Exchange Server!](data/2021-ProxyLogon-is-Just-the-Tip-of-the-Iceberg-A-New-Attack-Surface-on-Microsoft-Exchange-Server!.pdf)
+    * Black Hat USA
+    * DEFCON
+    * [(blog) A New Attack Surface on MS Exchange Part 1 - ProxyLogon!](https://blog.orange.tw/2021/08/proxylogon-a-new-attack-surface-on-ms-exchange-part-1.html)
+    * [(blog) A New Attack Surface on MS Exchange Part 2 - ProxyOracle!](https://blog.orange.tw/2021/08/proxyoracle-a-new-attack-surface-on-ms-exchange-part-2.html)
+    * [(blog) A New Attack Surface on MS Exchange Part 3 - ProxyShell!](https://blog.orange.tw/2021/08/proxyshell-a-new-attack-surface-on-ms-exchange-part-3.html)
 * [A Journey Combining Web Hacking and Binary Exploitation in Real World!](data/2021-A-Journey-Combining-Web-and-Binary-Exploitation-in-Real-World.pdf)
     * RealWorld CTF (Live Forum)
     * OWASP Hong Kong TechDay
