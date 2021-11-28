@@ -6,6 +6,10 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
 
 
 ## 2021
+* [The Proxy Era of Microsoft Exchange Server](data/2021-The-Proxy-Era-Of-Microsoft-Exchange-Server.pdf)
+    * POC2021
+    * HITCON
+    * [(TBD) (blog) A New Attack Surface on MS Exchange Part 4 - ProxyRelay!](https://blog.orange.tw/)
 * [ProxyLogon is Just the Tip of the Iceberg: A New Attack Surface on Microsoft Exchange Server!](data/2021-ProxyLogon-is-Just-the-Tip-of-the-Iceberg-A-New-Attack-Surface-on-Microsoft-Exchange-Server!.pdf)
     * Black Hat USA
     * DEFCON
