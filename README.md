@@ -10,8 +10,9 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
     * Black Hat USA
     * DEFCON
     * HITCON
+    * CODE BLUE
     * Additional Materials:
-        - [TBD] [Blog] - [Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS](https://blog.orange.tw/)
+        - [Blog] - [Let's Dance in the Cache - Destabilizing Hash Table on Microsoft IIS](http://blog.orange.tw/2022/08/lets-dance-in-the-cache-destabilizing-hash-table-on-microsoft-iis.html)
 
 
 ## 2021
@@ -20,7 +21,7 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
     * CODE BLUE
     * HITCON
     * Additional Materials:
-        * [TBD] [Blog] - [A New Attack Surface on MS Exchange Part 4 - ProxyRelay!](https://blog.orange.tw/)
+        * [Blog] - [A New Attack Surface on MS Exchange Part 4 - ProxyRelay!](https://blog.orange.tw/2022/10/proxyrelay-a-new-attack-surface-on-ms-exchange-part-4.html)
 * [ProxyLogon is Just the Tip of the Iceberg: A New Attack Surface on Microsoft Exchange Server!](data/2021-ProxyLogon-is-Just-the-Tip-of-the-Iceberg-A-New-Attack-Surface-on-Microsoft-Exchange-Server!.pdf)
     * Black Hat USA
     * DEFCON
