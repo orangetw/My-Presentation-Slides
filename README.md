@@ -6,7 +6,7 @@ Collections of Orange Tsai's public presentation slides. You can find me at:
 
 
 ## 2023
-* [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds](2023-A-3-Years-Tale-of-Hacking-a-Pwn2Own-Target.pdf)
+* [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds](data/2023-A-3-Years-Tale-of-Hacking-a-Pwn2Own-Target.pdf)
 	* HITCON
 	* Romhack
 	* Hexacon
