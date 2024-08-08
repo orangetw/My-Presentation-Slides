@@ -1,9 +1,12 @@
 # My-Presentation-Slides
-Collections of Orange Tsai's public presentation slides. You can find me at:
+Orange Tsai's public presentation slides. You can find me at:
 * Blog: [https://blog.orange.tw/](https://blog.orange.tw/)
 * Mail: [orange.8361@gmail.com](mailto:orange.8361@gmail.com)
 * Twitter: [@orange_8361](https://twitter.com/orange_8361)
 
+## 2024
+* [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](data/2024-Confusion-Attacks-Exploiting-Hidden-Semantic-Ambiguity-in-Apache-HTTP-Server!.pdf)
+    * * Black Hat USA
 
 ## 2023
 * [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds](data/2023-A-3-Years-Tale-of-Hacking-a-Pwn2Own-Target.pdf)
