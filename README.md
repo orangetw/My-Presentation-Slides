@@ -6,7 +6,10 @@ Orange Tsai's public presentation slides. You can find me at:
 
 ## 2024
 * [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](data/2024-Confusion-Attacks-Exploiting-Hidden-Semantic-Ambiguity-in-Apache-HTTP-Server!.pdf)
-    * * Black Hat USA
+	* Black Hat USA
+ 	* Additional Materials:
+  		- [Blog] - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
+        
 
 ## 2023
 * [A 3-Year Tale of Hacking a Pwn2Own Target: The Attacks, Vendor Evolution, and Lesson Learneds](data/2023-A-3-Years-Tale-of-Hacking-a-Pwn2Own-Target.pdf)
