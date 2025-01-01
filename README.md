@@ -5,6 +5,9 @@ Orange Tsai's public presentation slides. You can find me at:
 * Twitter: [@orange_8361](https://twitter.com/orange_8361)
 
 ## 2024
+* [WorstFit: Unveiling Hidden Transformers in Windows ANSI!](data/2024-WorstFit-Unveiling-Hidden-Transformers-in-Windows-ANSI.pdf)
+    * Black Hat Europe
+    * DEVCORE CONF (2025)
 * [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server!](data/2024-Confusion-Attacks-Exploiting-Hidden-Semantic-Ambiguity-in-Apache-HTTP-Server!.pdf)
 	* Black Hat USA
  	* Additional Materials:
